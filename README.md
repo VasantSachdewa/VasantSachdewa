@@ -5,4 +5,5 @@
 
 ### Open Source Contributions
 #### DevOps
-- [Ghostfolio-k8s](https://github.com/VasantSachdewa/ghostfolio-k8s) 
+- [ghostfolio-k8s](https://github.com/VasantSachdewa/ghostfolio-k8s) (Helm, Kubernetes)
+  
