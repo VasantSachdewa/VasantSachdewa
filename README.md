@@ -8,6 +8,9 @@
 #### Backend
 - [ghostfolio third party integration](https://github.com/VasantSachdewa/ghostfolio-thailand/pull/2) (NestJs, Typescript, Scraping)
 
+#### Architecture
+- [architecture design for job-scanner](https://github.com/smolman800/job-scanner/pull/4) (C4 model)
+
 #### DevOps
 - [ghostfolio-k8s](https://github.com/VasantSachdewa/ghostfolio-k8s) (Helm, Kubernetes)
   
