@@ -10,6 +10,7 @@
 
 #### Architecture
 - [architecture design for job-scanner](https://github.com/smolman800/job-scanner/pull/4) (C4 model)
+- [API spec definition for job-scanner](https://github.com/smolman800/job-scanner/pull/5) (OpenAPI, Restful)
 
 #### DevOps
 - [ghostfolio-k8s](https://github.com/VasantSachdewa/ghostfolio-k8s) (Helm, Kubernetes)
