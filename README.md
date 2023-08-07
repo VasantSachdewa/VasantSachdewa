@@ -11,7 +11,8 @@
 #### Architecture
 - [architecture design for job-scanner](https://github.com/smolman800/job-scanner/pull/4) (C4 model)
 - [API spec definition for job-scanner](https://github.com/smolman800/job-scanner/pull/5) (OpenAPI, Restful)
-- [FastAPI project setup](https://github.com/smolman800/job-scanner/pull/6) (Project Setup, FastAPI, Python, Docker) 
+- [FastAPI project setup](https://github.com/smolman800/job-scanner/pull/6) (Project Setup, FastAPI, Python, Docker)
+- [Nextjs project setup](https://github.com/smolman800/job-scanner/pull/7) (NextJs, Typescript, Frontend, Docker, ReactJs)
 
 #### DevOps
 - [ghostfolio-k8s](https://github.com/VasantSachdewa/ghostfolio-k8s) (Helm, Kubernetes)
