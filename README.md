@@ -7,7 +7,6 @@
 
 #### Backend
 - [ghostfolio third party integration](https://github.com/VasantSachdewa/ghostfolio-thailand/pull/2) (NestJs, Typescript, Scraping)
-- [FastAPI project setup](https://github.com/smolman800/job-scanner/pull/6) (Project Setup, FastAPI, Python, Docker)
 
 #### Frontend
 - [Nextjs project setup](https://github.com/smolman800/job-scanner/pull/7) (NextJs, Typescript, Frontend, Docker, ReactJs)
