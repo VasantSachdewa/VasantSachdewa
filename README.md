@@ -7,6 +7,7 @@
 
 #### Backend
 - [ghostfolio third party integration](https://github.com/VasantSachdewa/ghostfolio-thailand/pull/2) (NestJs, Typescript, Scraping)
+- [Functionality to scrape data](https://github.com/smolman800/job-scanner/pull/13) (NestJs, TypeORM, Schema Design, Clean Architecture)
 
 #### Frontend
 - [Nextjs project setup](https://github.com/smolman800/job-scanner/pull/7) (NextJs, Typescript, Frontend, Docker, ReactJs)
