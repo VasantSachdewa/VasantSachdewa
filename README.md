@@ -12,6 +12,7 @@
 
 #### Frontend
 - [Nextjs project setup](https://github.com/smolman800/job-scanner/pull/7) (NextJs, Typescript, Frontend, Docker, ReactJs)
+- [React UI development and Backend Integration](https://github.com/smolman800/job-scanner/pull/15) (NextJs, ReactJs, Pagination, Typescript)
 
 #### Architecture
 - [architecture design for job-scanner](https://github.com/smolman800/job-scanner/pull/4) (C4 model)
