@@ -20,4 +20,5 @@
 
 #### DevOps
 - [ghostfolio-k8s](https://github.com/VasantSachdewa/ghostfolio-k8s) (Helm, Kubernetes)
+- [CI pipeline for job-scanner](https://github.com/smolman800/job-scanner/pull/21) (Github actions, CI, build)
   
